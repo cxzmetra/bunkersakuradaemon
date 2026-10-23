@@ -1,0 +1,9 @@
+{
+  "name": "bunker-free-lobby-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Free self-hosted WebSocket lobby relay for BUNKER Godot prototype",
+  "license": "MIT",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"ws": "^8.18.0"}
+}
